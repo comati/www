@@ -1,19 +1,19 @@
 {
-  "name": "thinkverse/package-tutorial",
+  "name": "comati/package-tutorial",
   "type": "library",
   "description": "Package built for my Package Tutorial.",
-  "homepage": "https://github.com/thinkverse/package-tutorial",
+  "homepage": "https://github.com/comati/www",
   "license": "MIT",
   "authors": [{
-    "name": "Kim <thinkverse> Hallberg",
-    "email": "hallberg.kim@gmail.com"
+    "name": "Popa Ion",
+    "email": "popasdret34m@gmail.com"
   }],
   "require": {
     "php": ">=7.2"
   },
   "autoload": {
     "psr-4": {
-      "Thinkverse\\": "src/"
+      "Comati\\": "src/"
     }
   }
 }
