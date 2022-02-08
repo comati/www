@@ -4,6 +4,7 @@
   "description": "Package built for my Package Tutorial.",
   "homepage": "https://github.com/comati/www",
   "license": "MIT",
+   "version": "1.0.0",
   "authors": [{
     "name": "Popa Ion",
     "email": "popasdret34m@gmail.com"
